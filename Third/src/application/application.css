@@ -1,0 +1,52 @@
+.cambio1{
+		-fx-background-image: url("ss1.jpg");
+		-fx-background-repeat: no-repeat;
+		-fx-background-size: cover, auto;
+	
+}
+.cambio2{
+		-fx-background-image: url("ss2.jpg");
+		-fx-background-repeat: no-repeat;
+		-fx-background-size: cover, auto;
+	
+}
+.cambio3{
+		-fx-background-image: url("s3.jpg");
+		-fx-background-repeat: no-repeat;
+		-fx-background-size: cover, auto;
+	
+}
+.cambio4{
+		-fx-background-image: url("s4.jpg");
+		-fx-background-repeat: no-repeat;
+		-fx-background-size: cover, auto;
+	
+}
+.verde{
+	-fx-background-color: green;
+	-fx-border-color: green;
+	-fx-text-fill: white
+}
+
+.verde:hover{
+	-fx-background-color: orange;
+	-fx-border-color: orange;
+	-fx-text-fill: white;	 
+}
+.azul{
+	-fx-background-color: blue;
+	-fx-border-color: blue;
+	-fx-text-fill: white
+}
+
+.azul:hover{
+	-fx-background-color: orange;
+	-fx-border-color: orange;
+	-fx-text-fill: white;	 
+}
+.arriba{
+	-fx-background-color:blue;
+}
+.menu{
+		-fx-text-fill: white
+}
